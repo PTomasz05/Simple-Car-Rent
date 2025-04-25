@@ -1,6 +1,6 @@
-package PT.s33623.carapp.entity;
+package PT.ptomasz05.carapp.entity;
 
-import PT.s33623.carapp.entity.vehicle.Vehicle;
+import PT.ptomasz05.carapp.entity.vehicle.Vehicle;
 
 import java.util.*;
 
