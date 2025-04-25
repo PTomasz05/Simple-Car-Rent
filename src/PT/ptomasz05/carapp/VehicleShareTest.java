@@ -1,16 +1,16 @@
-package PT.s33623.carapp;
+package PT.ptomasz05.carapp;
 
-import PT.s33623.carapp.entity.Basket;
-import PT.s33623.carapp.entity.Client;
-import PT.s33623.carapp.entity.Pricelist;
-import PT.s33623.carapp.entity.Wishlist;
-import PT.s33623.carapp.entity.vehicle.Vehicle;
-import PT.s33623.carapp.entity.vehicle.impl.Car;
-import PT.s33623.carapp.entity.vehicle.impl.Delivery;
-import PT.s33623.carapp.entity.vehicle.impl.Free;
-import PT.s33623.carapp.entity.vehicle.impl.Vintage;
-import PT.s33623.carapp.enums.PaymentMethod;
-import PT.s33623.carapp.enums.VehicleType;
+import PT.ptomasz05.carapp.entity.Basket;
+import PT.ptomasz05.carapp.entity.Client;
+import PT.ptomasz05.carapp.entity.Pricelist;
+import PT.ptomasz05.carapp.entity.Wishlist;
+import PT.ptomasz05.carapp.entity.vehicle.Vehicle;
+import PT.ptomasz05.carapp.entity.vehicle.impl.Car;
+import PT.ptomasz05.carapp.entity.vehicle.impl.Delivery;
+import PT.ptomasz05.carapp.entity.vehicle.impl.Free;
+import PT.ptomasz05.carapp.entity.vehicle.impl.Vintage;
+import PT.ptomasz05.carapp.enums.PaymentMethod;
+import PT.ptomasz05.carapp.enums.VehicleType;
 
 public class VehicleShareTest {
 
