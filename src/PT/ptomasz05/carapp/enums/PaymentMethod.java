@@ -1,4 +1,4 @@
-package PT.s33623.carapp.enums;
+package PT.ptomasz05.carapp.enums;
 
 public enum PaymentMethod {
     CARD, // 1% prowizji
