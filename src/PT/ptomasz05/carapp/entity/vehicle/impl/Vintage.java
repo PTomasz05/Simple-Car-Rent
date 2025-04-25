@@ -1,7 +1,7 @@
-package PT.s33623.carapp.entity.vehicle.impl;
+package PT.ptomasz05.carapp.entity.vehicle.impl;
 
-import PT.s33623.carapp.entity.vehicle.Vehicle;
-import PT.s33623.carapp.enums.VehicleType;
+import PT.ptomasz05.carapp.entity.vehicle.Vehicle;
+import PT.ptomasz05.carapp.enums.VehicleType;
 
 public class Vintage extends Vehicle {
 
