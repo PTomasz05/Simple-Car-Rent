@@ -1,12 +1,12 @@
-package PT.s33623.carapp.entity;
+package PT.ptomasz05.carapp.entity;
 
-import PT.s33623.carapp.entity.vehicle.Vehicle;
-import PT.s33623.carapp.entity.vehicle.impl.Car;
-import PT.s33623.carapp.entity.vehicle.impl.Delivery;
-import PT.s33623.carapp.entity.vehicle.impl.Free;
-import PT.s33623.carapp.entity.vehicle.impl.Vintage;
-import PT.s33623.carapp.enums.PaymentMethod;
-import PT.s33623.carapp.enums.VehicleType;
+import PT.ptomasz05.carapp.entity.vehicle.Vehicle;
+import PT.ptomasz05.carapp.entity.vehicle.impl.Car;
+import PT.ptomasz05.carapp.entity.vehicle.impl.Delivery;
+import PT.ptomasz05.carapp.entity.vehicle.impl.Free;
+import PT.ptomasz05.carapp.entity.vehicle.impl.Vintage;
+import PT.ptomasz05.carapp.enums.PaymentMethod;
+import PT.ptomasz05.carapp.enums.VehicleType;
 
 import java.util.*;
 import java.util.function.BiFunction;
